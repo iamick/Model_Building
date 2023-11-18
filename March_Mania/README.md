@@ -1,0 +1,2 @@
+# Predicting Women's March Mania Outcomes
+Each year, sixty-eight women’s college basketball teams compete in a nationally broadcasted tournament known as March Madness. Alongside the excitement fans share over watching their alma mater’s compete, a different form of competition brews in offices, households, and gambling halls across the country: predicting who will win each matchup and be crowned champion. For this project, we have set out to do just that.
